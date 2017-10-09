@@ -22,6 +22,7 @@ The function will only look for a label if there is no action buttons.
 ##### Action button
 
 ![action button in list view](https://cloud.githubusercontent.com/assets/1153134/4344159/52248e7c-407b-11e4-9c80-fdc9f8a9f8cc.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-gmail.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-gmail?ref=badge_shield)
 
 ##### Label
 
@@ -90,3 +91,7 @@ Firefox: `firefox/data/index.js`.
 **Love :heart: it?** Tell this little bird over at [`@muanchiou`](https://twitter.com/muanchiou) and I'll be thrilled.
 
 **Found a :bug: bug?** [Open an issue](https://github.com/muan/github-gmail/issues/new) with some [emojis](http://emoji.muan.co). Issues without emojis are not valid. :trollface:
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-gmail.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-gmail?ref=badge_large)
